@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:27:11:2024
+## Register Number:24901116
+## Name:PRIYADHARSHINI J
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,61 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+```
+Improving alumni relations
+The platform can help alumni stay connected to their alma mater and network with other alumni.
+Increasing donations
+The platform can help universities connect alumni with annual funds and other resources.
+Providing career support
+The platform can help alumni access career support and opportunities.
+Creating potential donors
+The platform can help universities connect alumni with resources to help create new potential donors. 
+Here are some other ways to improve alumni engagement:
+Organize social events, such as reunions and family picnics 
+Publish newsletters or magazines 
+Offer bundled discounts for members to attend multiple events 
+Encourage alumni to volunteer on committees and boards 
+Encourage alumni to mentor current students 
+Encourage alumni to support recent graduates 
+Alumni can also contribute to their university in other ways, such as providing corporate knowledge and networks, and sharing their experience of the marketplace.
+```
 
 
 ## Proposed Solution / Architecture Diagram
 
+![image](https://github.com/user-attachments/assets/6f54f4b4-dcd0-4198-9a8a-cfb4df7fb011)
+
+
 
 ## Use Cases
 
+![image](https://github.com/user-attachments/assets/b5b5331b-52a3-4ff1-b0dd-5bf644c881ed)
+
+
+
 
 ## Technology Stack
+```
+React.js
+CSS Framework: Tailwind CSS or Bootstrap
+State Management: Redux or React Context API
+React Native or Flutter
+Node.js with Express.js
+JWT (JSON Web Tokens) or OAuth 2.0
+Stripe or Razorpay
+Amazon S3
+PostgreSQL or MySQL
+MongoDB (optional)
+AWS (Amazon Web Services) or Google Cloud Platform (GCP)
+```
+
 
 
 ## Dependencies
+```
+Mapping service- 10 days
 
+Data collection- 10 days
+
+budget- rs.50,000
+```
